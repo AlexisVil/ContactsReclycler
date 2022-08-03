@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactsReclycler</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_phone">Telefono:</string>
+    <string name="hint_mail">Correo electrónico:</string>
+    <string name="btn_save">Guardar registro</string>
+
+    <string name="menu_nuevo">Nuevo Registro</string>
+</resources>
